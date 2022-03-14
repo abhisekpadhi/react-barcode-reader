@@ -64,10 +64,10 @@
     "gulp-babel": "^8.0.0",
     "gulp-butternut": "^1.0.0",
     "gulp-concat": "^2.6.1",
-    "gulp-inline-str": "^0.1.0"
+    "gulp-inline-str": "^0.1.0",
+    "babel-loader": "^8.1.0"
   },
   "dependencies": {
-    "babel-loader": "^8.1.0",
     "prop-types": "^15.7.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
